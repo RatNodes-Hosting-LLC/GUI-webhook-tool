@@ -1,0 +1,11 @@
+aiohttp
+alive-progress
+discord.py
+discord-webhook
+goto-statement
+imgbb
+Pillow
+requests
+sv-ttk
+tkthread
+ttkthemes
